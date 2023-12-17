@@ -48,7 +48,7 @@
 .header{
    min-height: 100vh;
    width: 100%;
-   background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../image/background.jpg);
+   background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../Slider.jpeg);
    background-position: center;
    background-size: cover;
    position: relative;
@@ -60,7 +60,7 @@ nav{
    align-items: center;
 }
 nav img{
-   width: 150px;
+   width: 90px;
 }
 .nav-links{
    flex: 1;

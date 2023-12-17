@@ -11,7 +11,7 @@
     /* border: 1px solid yellow; */
   }
   body{
-    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../image/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../Slider.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -46,7 +46,7 @@ nav{
     align-items: center;
 }
 nav img{
-    width: 150px;
+    width: 80px;
 }
 .nav-links{
     flex: 1;
